@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "platform": "revenue",
+  "status": "active",
+  "commit": "df59164daf6e2d5b1fc950d25228d8185656b8ca",
+  "buildVintage": "web-v2026.09.10.2",
+  "deploymentId": "github-release-386095577",
+  "keyId": "revenue-release-2026-09",
+  "signedAt": "2026-09-10T07:57:56.990Z",
+  "expiresAt": "2026-09-10T08:12:56.990Z",
+  "signature": "6kPloOfzbZ8T3rVZh5YJzAI8N2WuAKMBgNuOxdsKd7nrJKJmKIk7m15ZB753p541CoT/k7gLmjlRMoPpj/mjDQ=="
+}
