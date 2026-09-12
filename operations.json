@@ -3,10 +3,10 @@
   "platform": "operations",
   "status": "active",
   "commit": "da3006167b32199f95ec33ff7a84f0552bd30bd1",
-  "buildVintage": "operations-e9964f1f-4569-41fa-95b2-5cfc5235c1c0",
-  "deploymentId": "e9964f1f-4569-41fa-95b2-5cfc5235c1c0",
+  "buildVintage": "operations-a4756719-6ca1-4e0b-98bb-48026c0a19b2",
+  "deploymentId": "a4756719-6ca1-4e0b-98bb-48026c0a19b2",
   "keyId": "operations-release-2026-09",
-  "signedAt": "2026-09-12T10:29:06.709Z",
-  "expiresAt": "2026-09-12T10:44:06.709Z",
-  "signature": "aazWKozekfeuQl2r5C2QFUKHRTgdjZitxLQNC81Aed/h19uOcAGwMBQkTMXQfIY2GOvET74qLqSKh8gkcYeUDQ=="
+  "signedAt": "2026-09-12T12:22:55.284Z",
+  "expiresAt": "2026-09-12T12:37:55.284Z",
+  "signature": "wbGZGXV0mDjSAmhJD9aOdhLMWQMzgYsZ07bcUz3WlEQ8REWCujhYI5jonS5fqIPexN0GrvTfI/CJ/l7eM+hUBg=="
 }
