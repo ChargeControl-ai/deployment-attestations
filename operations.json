@@ -6,7 +6,7 @@
   "buildVintage": "operations-e9964f1f-4569-41fa-95b2-5cfc5235c1c0",
   "deploymentId": "e9964f1f-4569-41fa-95b2-5cfc5235c1c0",
   "keyId": "operations-release-2026-09",
-  "signedAt": "2026-09-11T09:50:49.133Z",
-  "expiresAt": "2026-09-11T10:05:49.133Z",
-  "signature": "HJQqXIK75x1fznId7qxL5SnF2pHFaJrEqgY4Yx14dE6BIRC3+LUcTd+xym2HBUtuxfHEsVOBJuzMQ5Fwdt6kBQ=="
+  "signedAt": "2026-09-12T10:29:06.709Z",
+  "expiresAt": "2026-09-12T10:44:06.709Z",
+  "signature": "aazWKozekfeuQl2r5C2QFUKHRTgdjZitxLQNC81Aed/h19uOcAGwMBQkTMXQfIY2GOvET74qLqSKh8gkcYeUDQ=="
 }
