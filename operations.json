@@ -2,11 +2,11 @@
   "schemaVersion": 1,
   "platform": "operations",
   "status": "active",
-  "commit": "da3006167b32199f95ec33ff7a84f0552bd30bd1",
-  "buildVintage": "operations-048b130a-a50a-4854-8aa7-b4361d916f68",
-  "deploymentId": "048b130a-a50a-4854-8aa7-b4361d916f68",
+  "commit": "be683c5394e73f1cf875fa6fd1677a210f504611",
+  "buildVintage": "operations-bbb03a30-7a0e-4ee3-b84e-8035346f76d8",
+  "deploymentId": "bbb03a30-7a0e-4ee3-b84e-8035346f76d8",
   "keyId": "operations-release-2026-09",
-  "signedAt": "2026-09-21T12:33:21.450Z",
-  "expiresAt": "2026-09-21T12:48:21.450Z",
-  "signature": "mmzDN+7Qz7tHhxzTrxbcytakGD1UIt0Yq3qlUB2KZ4s/jCsRLNe2GLSfCuetVgH+l56Hj6djRQRSg2l82PdDBw=="
+  "signedAt": "2026-09-22T12:28:54.111Z",
+  "expiresAt": "2026-09-22T12:43:54.111Z",
+  "signature": "1+41FB0wId9wFo7RGr8wqmhjcbJ6ozSvhzW6l/1XDNVKwOq+1wTMMNZyPu/OmHQBaqTe6Y2AFWnUe7Lvf5NKCg=="
 }
